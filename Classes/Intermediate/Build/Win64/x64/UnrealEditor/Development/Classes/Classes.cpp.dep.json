@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marinavr\\documents\\github\\classesproject\\classes\\source\\classes\\classes.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marinavr\\documents\\github\\classesproject\\classes\\intermediate\\build\\win64\\x64\\classeseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\marinavr\\documents\\github\\classesproject\\classes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\classes\\definitions.classes.h",
+            "c:\\users\\marinavr\\documents\\github\\classesproject\\classes\\source\\classes\\classes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

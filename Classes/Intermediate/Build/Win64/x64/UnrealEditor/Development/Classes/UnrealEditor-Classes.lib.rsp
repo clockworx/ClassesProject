@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Classes.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\marinavr\Documents\GitHub\ClassesProject\Classes\Intermediate\Build\Win64\x64\ClassesEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\marinavr\Documents\GitHub\ClassesProject\Classes\Intermediate\Build\Win64\x64\UnrealEditor\Development\Classes\Classes.cpp.obj"
+"C:\Users\marinavr\Documents\GitHub\ClassesProject\Classes\Intermediate\Build\Win64\x64\UnrealEditor\Development\Classes\Default.rc2.res"
+/OUT:"C:\Users\marinavr\Documents\GitHub\ClassesProject\Classes\Intermediate\Build\Win64\x64\UnrealEditor\Development\Classes\UnrealEditor-Classes.lib"
